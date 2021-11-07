@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(0, 0, 255, 0.563);
+  background-color: darkslateblue
 }
 
 .nav1 {
@@ -13,6 +13,9 @@ body {
 } 
 section {
   background-color: darkslateblue;
+  text-align: center;
+  text-decoration: ivory;
+  font-size: medium;
 }
 .image{
   text-align: center;
