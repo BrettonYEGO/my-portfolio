@@ -1,5 +1,5 @@
 body {
-  background-color: darksalmon;
+  background-color: rgba(0, 0, 255, 0.563);
 }
 
 .nav1 {
@@ -7,7 +7,12 @@ body {
   padding: 15px;
   text-align: center;
   color: black;
+  
 } 
 section {
   background-color: darkslateblue;
+}
+.image{
+  text-align: center;
+  margin: 20px;
 }
