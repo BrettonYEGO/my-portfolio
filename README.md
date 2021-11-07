@@ -1,4 +1,5 @@
-# MY PORTFOLIO
+# 
+MY PORTFOLIO
 ## Creator - 
 Bretton Yego 
 # Installion Instructions
@@ -9,6 +10,8 @@ go to live server
 HTML
 CSS
 bootstrap 5
+# link 
+https://brettonyego.github.io/my-portfolio/
 
 # lisence
 MIT
